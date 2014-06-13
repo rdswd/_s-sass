@@ -5,7 +5,7 @@ This is simply https://github.com/Automattic/_s style.css broken up into .scss f
 
 There are two files added that are blank that I use in every project:
 
-*_mixins.scss
-*_mediaqueries.scss
+* _mixins.scss
+* _mediaqueries.scss
 
 Feel free to add your sass mixins and your media queries accordingly!
